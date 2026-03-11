@@ -74,6 +74,29 @@ assault.exe
 
 ---
 
+## 🎨 Assets and Credits
+
+This project uses several free assets:
+
+- **Player sprite**  
+  https://pixel-carvel.itch.io/player-spaceship
+
+- **Enemy sprites**  
+  https://timberlate007.itch.io/shootem-up
+
+- **Sound effects**  
+  https://gamesupply.itch.io/video-game-sound-pack  
+  https://sfxr.me
+
+- **Background music**  
+  https://doranarasi.itch.io/shmup-midi-pack
+
+- **Font**  
+  https://managore.itch.io/m6x11
+
+---
+
 ## 👨‍💻 Author
 
-Victor Cañón
+Developed by:
+- [Víctor Camilo Cañón Castellanos](https://github.com/vcanonc)
