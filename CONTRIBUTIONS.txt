@@ -1,0 +1,18 @@
+	CONTRIBUTIONS
+=============================
+
+* Player Sprite *
+https://pixel-carvel.itch.io/player-spaceship
+
+* Enemies Sprites *
+https://timberlate007.itch.io/shootem-up
+
+* SFX Sounds *
+https://gamesupply.itch.io/video-game-sound-pack
+sfxr.me
+
+* BGM Sounds *
+https://doranarasi.itch.io/shmup-midi-pack
+
+* Font *
+https://managore.itch.io/m6x11
