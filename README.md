@@ -62,6 +62,18 @@ This project was implemented using:
 
 ---
 
+## ⬇️ Download
+
+A Windows executable is available in the **Releases** section.
+
+Download the latest archive, extract it, and run:
+
+assault.exe
+
+[Download Windows Build](../../releases)
+
+---
+
 ## 👨‍💻 Author
 
 Victor Cañón
